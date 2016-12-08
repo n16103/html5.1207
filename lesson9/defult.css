@@ -1,0 +1,15 @@
+/*
+ 
+*/
+
+div {
+	width: 200px;
+	height: 200px;
+	background: skyblue
+	url('bike.jpg');
+	/*border-radius: 30px / 15px;*/
+	/*border-bottom-right-radius:30px;*/
+	/*border-radius: 10px 20px 30px;
+	 */
+border-radius: 50%;
+}
